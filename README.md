@@ -1,3 +1,5 @@
+**UPDATE :** please don't use this. You should always use a [HD Wallet](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki). This is kept here for historical reasons and as a technical curiosity only.
+
 bitcoin-keygen
 ==============
 
